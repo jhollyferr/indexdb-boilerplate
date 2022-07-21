@@ -1,5 +1,5 @@
 # indexdb-vanillajs
-indexdb implementation with vanillajs (async/promises)
+a vanillajs boilerplate app with indexDB
 
 
 
